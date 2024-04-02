@@ -15,7 +15,7 @@ Making stuff, all time :fire:
 
 </p>
 
-👨🏼‍💻 Actually working as **Freelancer**.
+👨🏼‍💻 Actually working as **Freelancer** and in 🌱 [Event Garden](https://eventgarden.io).
 
 ***
 I started my journey in the development world at a very young age, learning everything I could on my own. That allowed me to learn a little bit of everything *(I admit I broke a few things in the process)*.
@@ -29,8 +29,8 @@ Road to **Computer Engineer** *(78%)*.
 <p align="center">
  <a href="https://twitter.com/imzaldih">
    <img alt="Twitter logo" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
- </a> 
- &nbsp;&nbsp;&nbsp;
+ </a>
+ 
  <a href="https://www.linkedin.com/in/juan-torres-972b33163/">
    <img alt="Linkedin logo" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </a>
