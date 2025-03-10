@@ -3,7 +3,11 @@ What a surprise to see us here.. :shipit:
  
 I :heart: open source, the WEB, pizza and resolving problems.
 
+🧭 Focused on web technologies such as **Angular** or **NestJs**.
+
 Making stuff, all time :fire:
+
+Foc
 
 - Full Stack :milky_way:
 - SysAdmin :computer:
@@ -20,10 +24,7 @@ Making stuff, all time :fire:
 ***
 I started my journey in the development world at a very young age, learning everything I could on my own. That allowed me to learn a little bit of everything *(I admit I broke a few things in the process)*.
 
-Official Studies completed *for now*:
-Degree in Telecommunications & **Web Development**.
-
-Road to **Computer Engineer** *(78%)*.
+🏁 Road to **Computer Engineer** *(92%)*.
 
 ***
 <p align="center">
